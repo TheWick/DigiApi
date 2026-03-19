@@ -25,8 +25,6 @@ Aplicación Android desarrollada en Kotlin que consume una API para mostrar info
 ---
 
 
-(Agrega aquí screenshots de tu app)
-
 ---
 
 ⚙️ Instalación
